@@ -7,8 +7,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :seedling: Currently delving into microservers architecture.
 
 - :zap: Passionate about learning and staying updated with tech through reading articles in my leisure.
-
-- 📬 How to reach me: [![](https://img.shields.io/badge/Telegram-blue)](https://t.me/ambulance24)
+  
 ---
 ### 🛠️ Languages and Tools :
 <div>
@@ -26,6 +25,8 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 <h2>🌐 Links</h2>
 <p align="left">
