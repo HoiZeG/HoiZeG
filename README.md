@@ -1,7 +1,7 @@
 # Hey there! 👋
 ---
 ### 👩‍💻 About Me :
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-P.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
 - :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
 
 - :seedling: Currently delving into microservers architecture.
@@ -26,6 +26,12 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
 </div>
+
+<h2>🌐 Links</h2>
+<p align="left">
+<a href="mailto:spvanym@gmail.com" target="blank" ><img aling="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="gmail" height="30" width="40"/></a>
+<a href="https://t.me/Ivan_chaiii" target="blank" ><img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="telegram" height="30" width="40"/></a>
+<br>
 
 ---
 
