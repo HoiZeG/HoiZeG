@@ -1,13 +1,21 @@
 # Hey there! 👋
 ---
-### 👩‍💻 About Me :
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
-- :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
+###
 
-- :seedling: Currently delving into microservers architecture.
+<h1 align="center">Привет👋 Меня зовут Иван!</h1>
 
-- :zap: Passionate about learning and staying updated with tech through reading articles in my leisure.
-  
+
+###
+
+<p align="left">Я Java Developer с опытом разработки микросервисов с применением Event-Driven архитектуры (Spring, Kafka, Redis, Postgres) в команде из 6+ инженеров<br><br>- 🔭 Работал в SCRUM-команде из 6-ти человек во главе с TechLead из Sber и Project Manager из МТС<br>- 📚 Разработали с командой 9 микросервисов и настроил взаимодействие между ними, используя Event-Driven подход</p>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
 ---
 ### 🛠️ Languages and Tools :
 <div>
