@@ -30,5 +30,5 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 
 ### 🔥 My Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonRudnikovskiy&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoiZeG&theme=radical)
 
